@@ -1,9 +1,9 @@
 export const SITE = {
   URL: "https://your_site.com",
-  TITLE: "Mono Lume",
+  TITLE: "Charlie",
   DESCRIPTION:
-    "A full-stack developer with a strong focus on building fast, accessible, and maintainable web applications.",
-  EMAIL: "hi@monolume.com",
+    "testing",
+  EMAIL: "charliebear.cjw@gmail.com",
 };
 
 export const HOME = {
