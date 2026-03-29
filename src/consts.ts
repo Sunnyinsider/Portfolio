@@ -1,21 +1,21 @@
 export const SITE = {
   URL: "https://your_site.com",
-  TITLE: "Charlie",
+  TITLE: "Charlie Warren",
   DESCRIPTION:
-    "testing",
+    "A full stack developer finding his way around a modern IT hellscape",
   EMAIL: "charliebear.cjw@gmail.com",
 };
 
 export const HOME = {
   TITLE: "Home",
   DESCRIPTION:
-    "A personal blog about coding, building projects, and figuring things out",
+    "A personal blog about coding, game design, building projects, and figuring things out",
 };
 
 export const BLOG = {
   TITLE: "Blog",
   DESCRIPTION:
-    "A collection of articles on programming, projects and other stuff",
+    "A collection of articles on programming, projects and everything else I've been up to",
 };
 
 export const PROJECTS = {
@@ -26,15 +26,11 @@ export const PROJECTS = {
 
 export const SOCIALS = [
   {
-    NAME: "X",
-    HREF: "https://x.com/your_username",
-  },
-  {
     NAME: "Linkedin",
-    HREF: "https://linkedin.com/",
+    HREF: "https://www.linkedin.com/in/charlie-warren-3744a5399/",
   },
   {
     NAME: "Github",
-    HREF: "https://github.com/your_username",
+    HREF: "https://github.com/Sunnyinsider",
   },
 ];
